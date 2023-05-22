@@ -1,0 +1,37 @@
+
+.s1{
+    font-size: 200%;
+    
+    color: rgb(184, 0, 92);
+}
+
+body{
+    background-image: url('org.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: royalblue;
+    
+}
+input[type=number]{
+    background-color:  rgb(224, 178, 248);
+    border-radius: 10px;
+    color: black;
+    font-style: italic;
+    padding: 10px 30px;
+    font-size: 19px;
+    border-color: rgb(255, 6, 255);
+    border-width: thick;
+}
+input[type=submit]{
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: lightskyblue;
+}
+table,tr,td,th{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+th{
+    background-color: rgb(153, 221, 70);
+}
